@@ -93,6 +93,6 @@ cd ./0x09-island_perimeter
 <!---->
 
 # :man: Author and Credits.
-This project was done by [SE. Oni Michael](https://github.com/TheOnis). Feel free to get intouch with me;
+This project was done by [SE. Paul Mercy Bosede](https://github.com/paulmehmet). Feel free to get intouch with me;
 
 :thumbsup: A lot of thanks to [ALX-Africa Software Engineering](https://www.alxafrica.com/) program for the project requirements...
